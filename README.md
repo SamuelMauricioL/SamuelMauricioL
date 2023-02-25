@@ -26,4 +26,4 @@
 
 ## Github Stats
 
-[![Samuel' Github Stats](https://github-readme-stats.vercel.app/api?username=SamuelMauricioL&count_private=true&theme=default&show_icons=true)](https://github.com/SamuelMauricioL)
+[![Samuel' Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMauricioL&theme=light&hide_langs_below=1&hide=javascript,HTML,TypeScript,SCSS,CSS,CMake,C++)](https://github.com/SamuelMauricioL)
